@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@types/documentdb-server": "0.0.32",
+    "gulp": "^4.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-flatmap": "^1.0.2",
+    "gulp-replace": "^1.0.0",
+    "gulp-typescript": "^5.0.1",
+    "typescript": "^3.4.5"
+  }
+}
